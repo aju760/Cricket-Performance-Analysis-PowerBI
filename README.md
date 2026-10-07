@@ -108,19 +108,17 @@ Players with the highest catches
 Year-wise changes in batting performance
 Differences in performance across cricket formats
 Overall player performance trends
+
 📁 Project Structure
+
 Cricket-Performance-Analysis-PowerBI
 │
-├── Dataset
-│   └── cricket_data.xlsx
-│
-├── PowerBI
-│   └── Cricket_Performance_Dashboard.pbix
-│
-├── Dashboard
-│   └── Cricket_Dashboard.png
-│
-└── README.md
+├── CRICKET_DATA_ANALYSIS.xlsx
+├── CRICKET DATA ANALYSIS.pbix
+├── Cricket_Dashboard.png
+├── README.md
+└── LICENSE
+
 🚀 Project Outcome
 
 This project demonstrates practical skills in:
