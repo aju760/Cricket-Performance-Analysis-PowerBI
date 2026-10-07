@@ -6,6 +6,7 @@ The dashboard allows users to explore cricket data using interactive filters and
 
 📊 Dashboard Preview
 
+![Cricket Dashboard](./Cricket_Dashboard.png)
 
 
 
